@@ -42,6 +42,6 @@ Bugs or Implemented Test Cases
     a worst case scenario for the queue-based solver is a maze with a good path deep 
     in the maze, past dead end intersections that the solver must explore
     before reaching the good path.  
-'''
+
 Ben Mackenzie
 Mar 8, 2018
